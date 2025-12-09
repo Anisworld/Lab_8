@@ -8,7 +8,7 @@
         $name = "NUR ANIS ATHIRAH BINTI YUSRI";
         $matric_num = "CI230133";
         $course = "BACHELOR OF COMPUTER SCIENCE (SOFTWARE ENGINEERING) WITH HONOURS";
-        $yearOfStudy = "3";
+        $yearOfStudy = 3;
         $address = "no 54-8, Lorong Melur, Parit Jelutong, 86400 Batu Pahat, Johor";
     ?> 
     <table> 
